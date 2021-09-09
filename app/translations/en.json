@@ -1,0 +1,14 @@
+{
+  "details_list": "Details List",
+  "itunes_search": "iTunes Search",
+  "arist_song_search_default": "Search for an Artist or Song by entering their name in the search box",
+  "get_search_details": "Get details of Artist or Song",
+  "search_query": "Search query: {iTunesName}",
+  "matching": "Total number of matches : {totalCount}",
+  "something_went_wrong": "Sorry. Something went wrong! Please try again in sometime.",
+  "stories": "Go to Storybook",
+  "artist_name": "Artist Name: {name}",
+  "artist_album_name": "Album Name: {fullName}",
+  "artist_album_price": "Price: {stars}",
+  "wednesday_solutions": "Wednesday Solutions"
+}
