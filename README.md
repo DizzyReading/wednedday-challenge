@@ -42,7 +42,7 @@ An enterprise react template application showcasing - Testing strategies, Global
 
 - Install dependencies using `yarn install`
 
-- Start the dev server using `yarn start`
+- Start the dev server using `npm start`
 
 - Go through the other scripts in `package.json`
 
